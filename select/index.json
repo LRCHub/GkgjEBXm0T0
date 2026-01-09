@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "電光石火",
+  "base_artist": "音羽-otoha-",
+  "createdAt": "2026-01-09T21:01:11.413223Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "電光石火",
+      "artist": "豚乙女",
+      "has_synced": false,
+      "path": "select/01_電光石火_豚乙女.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "電光石火",
+      "artist": "THE BLUE HEARTS",
+      "has_synced": true,
+      "path": "select/02_電光石火_THE_BLUE_HEARTS.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "電光石火",
+      "artist": "ポルノグラフィティ",
+      "has_synced": false,
+      "path": "select/03_電光石火_ポルノグラフィティ.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "電光石火",
+      "artist": "THE BLUE HEARTS",
+      "has_synced": true,
+      "path": "select/04_電光石火_THE_BLUE_HEARTS.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "電光石火",
+      "artist": "音羽-otoha-",
+      "has_synced": false,
+      "path": "select/05_電光石火_音羽-otoha-.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "電光石火",
+      "artist": "音羽-otoha-",
+      "has_synced": false,
+      "path": "select/pl_01_電光石火_音羽-otoha-.txt"
+    }
+  ]
+}
